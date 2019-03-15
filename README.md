@@ -93,15 +93,14 @@ usuario, y debemos hacer el ejercicio empático de comprenderlo a él y a nuestr
 cliente.
 
 Este proyecto, a diferencia de otros, no debes partir desde cero generando un
-prototipo, sino investigar lo que el banco ya ha construido y en base a eso
+prototipo, sino investigar lo que el banco ya ha construido y con base en eso
 proponer un nueva alternativa. Para esto, te aconsejamos comenzar por investigar
 la información que tienes; entender qué datos ya manejas y qué elementos
 necesitas averiguar para completar tu proyecto. De esta manera, tu planificación
 es muy relevante para comprender la problemática.
 
 Al planificar podrás comprender de qué manera estructurar tu proyecto y qué
-elementos debes investigar. Además, te permitirá trabajar de mejor manera con tu
-compañera, te aconsejamos que consideres tiempo para poder iterar sobre las
+elementos debes investigar, te aconsejamos que consideres tiempo para poder iterar sobre las
 posibilidades de mejora y también para preparar la presentación.
 
 La calidad del proyecto depende totalmente de tu proactividad y autoaprendizaje,
@@ -212,28 +211,28 @@ que deberías alcanzar al finalizar este proyecto:
 
 ### UX Design
 
-|Habilidad|Nivel Esperado|
-|:---|:---:|
-|User centricity| 5 |
-|Planificación| 4 |
-|Entrevistas y testing| 4 |
-|Observación| 4 |
-|Síntesis de resultados| 4 |
-|Flujos de usuario| 4 |
-|Arquitectura de la información| 3 |
-|Prototyping| 5 |
-|Business mindset| 5 |
-|Visual Design| 4 |
+|Habilidad|
+|:---|
+|User centricity| 
+|Planificación| 
+|Entrevistas y testing|
+|Observación|
+|Síntesis de resultados|
+|Flujos de usuario|
+|Arquitectura de la información|
+|Prototyping|
+|Business mindset|
+|Visual Design|
 
 ### Soft skills
 
-|Habilidad|Nivel Esperado|
-|:---|:---:|
-|Planificación y organización| 4 |
-|Autoaprendizaje| 4 |
-|Solución de Problemas| 4 |
-|Dar y recibir feedback| 4 |
-|Adaptabilidad| 4 |
-|Trabajo en equipo (trabajo colaborativo y responsabilidad)| 4 |
-|Comunicación eficaz| 4 |
-|Presentaciones| 4 
+|Habilidad|
+|:---|
+|Planificación y organización|
+|Autoaprendizaje|
+|Solución de Problemas|
+|Dar y recibir feedback|
+|Adaptabilidad|
+|Trabajo en equipo (trabajo colaborativo y responsabilidad)|
+|Comunicación eficaz|
+|Presentaciones|
