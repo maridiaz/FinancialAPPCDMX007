@@ -49,12 +49,12 @@ Escenario: ha considerado buscar formas de limitar sus gastos y de ahorrar, le g
 **App Tus Finanzas**
 
 |Pains|Gains|
-|:----:|:---:|
+|:----|:---:|
 |Desconfianza de las personas al no pertenecer o tener el “respaldo” de una institución financiera
 Branding
 La forma en que está presentada la información (redacción de leads, slogan)
 Inversión en Facebook Ads y resultados desfavorecedores|
-Fácil de entender
+|Fácil de entender
 Navegación práctica
 Diseño agradable (fuente y color)
 Poder crear metas de ahorro|
@@ -62,7 +62,7 @@ Poder crear metas de ahorro|
 **Usuarios**
 
 |Pains|Gains|
-|:----:|:---:|
+|:----|:---:|
 |Poder ver el monto del avance, no sólo el %
 Tener que agregar foto de perfil, no es una red social
 Botón negro en la navegación
@@ -153,7 +153,7 @@ El rediseño de la App Tus Finanzas fue realizado en Figma, mientras que el fluj
 
 https://marvelapp.com/h3fd42j
 
-En loom se muestra el vídeo de la navegación: https://www.loom.com/share/1e1c4fae3b0143ecb0f2a2d39a4e4834
+En loom se muestra el vídeo de la navegación: https://www.loom.com/share/228ee7e4eed94bf2a467ea5fc37ef4dd 
 
 ### Recursos
 En esta carpeta de [Google Drive](https://drive.google.com/drive/u/0/folders/1NWf4701uKDsCK0eLNI8RXEocrI1g1zqd) y en los siguientes
