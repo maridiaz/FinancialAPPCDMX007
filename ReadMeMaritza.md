@@ -6,7 +6,7 @@ De acuerdo con la CONDUSEF, sólo el 13% de los jóvenes mexicanos ahorran una p
 Actualmente, vivir en la era digital ha propiciado -junto los canales de comunicación- la reducción de tiempos y costos. Entonces, surge la pregunta: ¿cómo hacer para que la gente ahorre? Considerando que “el 56% de los encuestados opinó que en el futuro no se usará efectivo y se pagará con el teléfono celular, por lo que se consolidará como el principal medio de pago”.
 
 ### Objetivo
-Rediseñar una app financiera enfocada al ahorro personal por medio de un proceso de analizar la data del producto, complementar con investigación de campo para definir una estrategia de crecimiento de dicho producto.
+Rediseñar una app financiera enfocada al ahorro personal por medio de investigación, análisis de la data del producto, investigación de campo y testeo para proponer un nuevo enfoque en dicha app.
 
 ### Problemática
 La app Tus Finanzas tiene como requerimientos:
@@ -115,6 +115,8 @@ El rediseño de la App Tus Finanzas fue realizado en Figma, mientras que el fluj
 
 https://marvelapp.com/h3fd42j
 
+En loom se muestra el vídeo de la navegación: https://www.loom.com/share/1e1c4fae3b0143ecb0f2a2d39a4e4834
+
 ### Recursos
 En esta carpeta de [Google Drive](https://drive.google.com/drive/u/0/folders/1NWf4701uKDsCK0eLNI8RXEocrI1g1zqd) y en los siguientes
 links, encontrarán:
@@ -133,7 +135,7 @@ links, encontrarán:
 * En esta carpeta de [Google Drive](https://drive.google.com/open?id=1ujzJ4oGa5gnQtuZVTPG9YwahEKQXCWqv) están los documentos con toda la información recabada.
 
 ### Metodología y herramientas utilizadas
-* Sprint Plannin
+* Sprint Planning
 * User Persona
 * Customer Journey Map
 * Heurística de Nielsen
