@@ -54,7 +54,7 @@ Escenario: ha considerado buscar formas de limitar sus gastos y de ahorrar, le g
 Branding
 La forma en que está presentada la información (redacción de leads, slogan)
 Inversión en Facebook Ads y resultados desfavorecedores|
-|Fácil de entender
+Fácil de entender
 Navegación práctica
 Diseño agradable (fuente y color)
 Poder crear metas de ahorro|
@@ -73,7 +73,7 @@ No poder ver un reporte mensual de ahorros
 No saber qué pasa en la parte de las notificaciones
 Búsqueda de algún incentivo por haber cumplido metas de ahorro
 Poder leer tips para gastar menos o ahorrar adecuadamente|
-Fácil de entender
+|Fácil de entender
 Navegación práctica
 Diseño agradable (fuente y color)
 Poder crear metas de ahorro|
