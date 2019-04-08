@@ -53,8 +53,8 @@ Escenario: ha considerado buscar formas de limitar sus gastos y de ahorrar, le g
 |Desconfianza de las personas al no pertenecer o tener el “respaldo” de una institución financiera
 Branding
 La forma en que está presentada la información (redacción de leads, slogan)
-Inversión en Facebook Ads y resultados desfavorecedores
-|Fácil de entender
+Inversión en Facebook Ads y resultados desfavorecedores|
+Fácil de entender
 Navegación práctica
 Diseño agradable (fuente y color)
 Poder crear metas de ahorro|
@@ -78,7 +78,7 @@ Navegación práctica
 Diseño agradable (fuente y color)
 Poder crear metas de ahorro|
 
-|Fácil de entender
+Fácil de entender
 Sencillo
 Navegación práctica
 Diseño agradable (fuente y color)
