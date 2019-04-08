@@ -47,8 +47,9 @@ Escenario: ha considerado buscar formas de limitar sus gastos y de ahorrar, le g
 
 ### Pains and gains
 App Tus Finanzas
+
 |Pains|Gains|
-|:----|:---|
+|:----|:---:|
 |
 Desconfianza de las personas al no pertenecer o tener el “respaldo” de una institución financiera
 Branding
@@ -58,8 +59,7 @@ Inversión en Facebook Ads y resultados desfavorecedores
 Fácil de entender
 Navegación práctica
 Diseño agradable (fuente y color)
-Poder crear metas de ahorro
- |
+Poder crear metas de ahorro|
 
 
 Con base en los resultados después de la investigación, trabajo de campo y customer journey map, se pudo confirmar que:
