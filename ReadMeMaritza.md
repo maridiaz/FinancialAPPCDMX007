@@ -49,7 +49,7 @@ Escenario: ha considerado buscar formas de limitar sus gastos y de ahorrar, le g
 **App Tus Finanzas**
 
 |Pains|Gains|
-|:----|:---:|
+|:----:|:---:|
 |Desconfianza de las personas al no pertenecer o tener el “respaldo” de una institución financiera
 Branding
 La forma en que está presentada la información (redacción de leads, slogan)
@@ -62,7 +62,7 @@ Poder crear metas de ahorro|
 **Usuarios**
 
 |Pains|Gains|
-|:----|:---:|
+|:----:|:---:|
 |Poder ver el monto del avance, no sólo el %
 Tener que agregar foto de perfil, no es una red social
 Botón negro en la navegación
