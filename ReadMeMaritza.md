@@ -46,7 +46,21 @@ Escenario: ha considerado buscar formas de limitar sus gastos y de ahorrar, le g
 “Quiero ahorrar para viajar a Europa”
 
 ### Pains and gains
-**no se pudo pegar la tabla de manera adecuada**
+App Tus Finanzas
+|Pains|Gains|
+|:----|:---|
+|
+Desconfianza de las personas al no pertenecer o tener el “respaldo” de una institución financiera
+Branding
+La forma en que está presentada la información (redacción de leads, slogan)
+Inversión en Facebook Ads y resultados desfavorecedores
+ |
+Fácil de entender
+Navegación práctica
+Diseño agradable (fuente y color)
+Poder crear metas de ahorro
+ |
+
 
 Con base en los resultados después de la investigación, trabajo de campo y customer journey map, se pudo confirmar que:
 * Las cuentas de ahorro se caracterizan porque  únicamente se puede disponer de los fondos que tenga la cuenta en el momento en que dicha cuenta de ahorro exista.
@@ -61,12 +75,12 @@ Con base en los resultados después de la investigación, trabajo de campo y cus
   * Recibir tips para tener una mejor manera de ahorrar
 
 ### Insights
-**Confianza**: por el respaldo de una institución financiera reconocida
-**Seguridad**: con el manejo de información
-**Libertad**: poder de decisión (poseer, comprar, tener, acumular)
-**Apoyo**: brindar soporte/aliento a la iniciativa del usuario para ahorrar
+**Confianza**: por el respaldo de una institución financiera reconocida.
+**Seguridad**: con el manejo de información de los usuarios.
+**Libertad**: poder de decisión (poseer, comprar, tener, acumular).
+**Apoyo**: brindar soporte/aliento a la iniciativa del usuario para ahorrar.
 **Tiempo**: no tiene relación con el ahorro, sino con lo emocional (de ahí la importancia de establecer metas específicas: conciertos, viajes, regalos, etc.)
-**Reconocimiento**: el usuario debe sentirse reconocido por usar la app y cumplir las metas de ahorro 
+**Reconocimiento**: el usuario debe sentirse reconocido por usar la app y cumplir las metas de ahorro.
 
 ### Propuesta de valor: 
 * Crear metas de ahorro. Aclarar que son objetivos que realmente se pueden lograr, esto a través de la seguridad, libertad, apoyo, reconocimiento y valoración del tiempo del usuario.
