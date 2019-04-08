@@ -46,20 +46,44 @@ Escenario: ha considerado buscar formas de limitar sus gastos y de ahorrar, le g
 “Quiero ahorrar para viajar a Europa”
 
 ### Pains and gains
-App Tus Finanzas
+**App Tus Finanzas**
 
 |Pains|Gains|
 |:----|:---:|
-|
-Desconfianza de las personas al no pertenecer o tener el “respaldo” de una institución financiera
+|Desconfianza de las personas al no pertenecer o tener el “respaldo” de una institución financiera
 Branding
 La forma en que está presentada la información (redacción de leads, slogan)
 Inversión en Facebook Ads y resultados desfavorecedores
- |
+|Fácil de entender
+Navegación práctica
+Diseño agradable (fuente y color)
+Poder crear metas de ahorro|
+
+**Usuarios**
+
+|Pains|Gains|
+|:----|:---:|
+|Poder ver el monto del avance, no sólo el %
+Tener que agregar foto de perfil, no es una red social
+Botón negro en la navegación
+Huella digital
+El nombre de “cuenta de ahorro”, podría ser “meta de ahorro”
+Nombre de la app
+No poder ver un reporte mensual de ahorros
+No saber qué pasa en la parte de las notificaciones
+Búsqueda de algún incentivo por haber cumplido metas de ahorro
+Poder leer tips para gastar menos o ahorrar adecuadamente|
 Fácil de entender
 Navegación práctica
 Diseño agradable (fuente y color)
 Poder crear metas de ahorro|
+
+|Fácil de entender
+Sencillo
+Navegación práctica
+Diseño agradable (fuente y color)
+Poder categorizar ahorros|
+
 
 
 Con base en los resultados después de la investigación, trabajo de campo y customer journey map, se pudo confirmar que:
