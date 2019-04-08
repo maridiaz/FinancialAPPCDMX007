@@ -147,7 +147,9 @@ El rediseño de la App Tus Finanzas fue realizado en Figma, mientras que el fluj
 
 https://marvelapp.com/h3fd42j
 
-En loom se muestra el vídeo de la navegación: https://www.loom.com/share/228ee7e4eed94bf2a467ea5fc37ef4dd 
+En el siguiente loom se muestra el vídeo de la navegación: https://www.loom.com/share/228ee7e4eed94bf2a467ea5fc37ef4dd 
+
+Y en este loom se encuentra la explicación del proyecto: https://www.loom.com/share/1f05a0924b25489ea9395bbb7a9cfd17 
 
 ### Recursos
 En esta carpeta de [Google Drive](https://drive.google.com/drive/u/0/folders/1NWf4701uKDsCK0eLNI8RXEocrI1g1zqd) y en los siguientes
