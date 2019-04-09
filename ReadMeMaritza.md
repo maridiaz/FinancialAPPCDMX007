@@ -141,6 +141,18 @@ El diseño (color y tipografía) fueron del agrado de las personas con quienes s
 9. Ayudar a reconocer, diagnosticar y recuperarse de errores: errores sin lenguaje de código. No error 404. Debido al alcance del mismo prototipo, no aplica.
 10. Ayuda y documentación: a la app le falta la sección de ayuda, preguntas frecuentes, contacto, acerca de.
 
+### Conclusiones
+
+Después del análisis de la data, el research (benchmark y testeo en campo), creación de prototipo, testeo e iteración se concluye que:
+
+1. App Tus Finanzas no debería considerar invertir en Facebook Ads, la sugerencia es considerar la creación de la app para versión Android (considerando que en el mercado mexicano el 79% del mercado mexicano utiliza Android, mientras que el 21% tiene iOS). El 61% de los usuarios que llegan al landing page de App Tus Finanzas son usuarios Android y sólo el 11% de los usuarios realizan un registro exitoso.
+
+2. Lo anterior no significa que se deba ignorar la información mostrada en la landing page o en cualquier medio, es indispensable saber cómo estructurar mensajes para captar el interés de los usuarios y lograr que quieran descargar la aplicación. 
+Es importante considerar la redacción de copys, crear mensajes persuasivos sin ser exagerados: el usuario ya sabe que las marcas quieren que sus aplicaciones sean descargadas, por lo que se debe transmitir es que App Tus Finanzas es la mejor opción que tiene.
+
+3. Se debe mantener la navegación sencilla y mantener informado al usuario en qué parte del proceso está: cuando inicia sesión, cuando se registra, cuando quiere agregar una categoría de gasto o una meta de ahorro, etc.
+
+
 ### Prototipo de mediana fidelidad
 
 El rediseño de la App Tus Finanzas fue realizado en Figma, mientras que el flujo de navegación fue hecho en Marvel.
