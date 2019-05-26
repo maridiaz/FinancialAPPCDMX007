@@ -152,12 +152,35 @@ Es importante considerar la redacción de copys, crear mensajes persuasivos sin 
 
 3. Se debe mantener la navegación sencilla y mantener informado al usuario en qué parte del proceso está: cuando inicia sesión, cuando se registra, cuando quiere agregar una categoría de gasto o una meta de ahorro, etc.
 
-
+### Antes y después
+Landingpage original.
+![GitHub Landingpage](antesydespues/landingpageoriginal.png)
+Propiesta de landingpage.
+![GitHub Landingpage](antesydespues/landingpage2.png)
+Pantalla de inicio al ingresar a la app.
+![GitHub Inicio](antesydespues/inicioapp.png)
+Registro.   
+![GitHub Huella](antesydespues/registro.png)
+Log in.
+![GitHub Huella](antesydespues/login.png)
+Ingreso a través de biométrico.
+![GitHub Huella](antesydespues/huella.png)
+Pantalla de bienvenida.
+![GitHub Huella](antesydespues/PantallaBienvenida1.png)
+![GitHub Bienvenida](antesydespues/Bienvenida.png)
+Se agregó un menú.
+![GitHub Huella](antesydespues/menú.png)
+Notificaciones.
+![GitHub Huella](antesydespues/notificaciones.png)
+Resumen de movimientos.
+![GitHub Huella](antesydespues/resumen.png)
+Se agregó una manera para crear categoría de ahorro.
+![GitHub Huella](antesydespues/crearcategoria.png)
+Meta de ahorro creada.
+![GitHub Huella](antesydespues/metaahorro.png)
 ### Prototipo de mediana fidelidad
 
 El rediseño de la App Tus Finanzas fue realizado en Figma, mientras que el flujo de navegación fue hecho en Marvel.
-
-https://marvelapp.com/h3fd42j
 
 En el siguiente loom se muestra el vídeo de la navegación: https://www.loom.com/share/228ee7e4eed94bf2a467ea5fc37ef4dd 
 
