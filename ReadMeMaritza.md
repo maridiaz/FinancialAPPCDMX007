@@ -155,7 +155,7 @@ Es importante considerar la redacción de copys, crear mensajes persuasivos sin 
 ### Antes y después
 Landingpage original.
 ![GitHub Landingpage](antesydespues/landingpageoriginal.png)
-Propiesta de landingpage.
+Propuesta de landingpage.
 ![GitHub Landingpage](antesydespues/landingpage2.png)
 Pantalla de inicio al ingresar a la app.
 ![GitHub Inicio](antesydespues/inicioapp.png)
